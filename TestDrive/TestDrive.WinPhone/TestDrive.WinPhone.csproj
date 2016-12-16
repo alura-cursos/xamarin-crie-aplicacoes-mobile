@@ -138,9 +138,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TestDrive.Aula2\TestDrive.Aula2.csproj">
-      <Project>{20c2ee10-bd8b-419e-ac6d-f17a160e538e}</Project>
-      <Name>TestDrive.Aula2</Name>
+    <ProjectReference Include="..\TestDrive.Aula3\TestDrive.Aula3.csproj">
+      <Project>{f3795a63-fa62-44b5-a4d6-8cbdd543eff5}</Project>
+      <Name>TestDrive.Aula3</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
