@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\users\marce\documents\github\xamarin-crie-aplicacoes-mobile\testdrive\testdrive.aula1\bin\debug\testdrive.dll" HashGuid="15e2e608-cb60-848a-a39b-0abaa0875a8c" />
+    <ReferenceAssembly PathName="c:\users\marce\documents\github\xamarin-crie-aplicacoes-mobile\packages\xamarin.forms.2.3.3.175\lib\wpa81\xamarin.forms.core.dll" HashGuid="c782f70f-077f-7e2d-5bd4-f6b5da067f8a" />
+    <ReferenceAssembly PathName="c:\users\marce\documents\github\xamarin-crie-aplicacoes-mobile\packages\xamarin.forms.2.3.3.175\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\marce\documents\github\xamarin-crie-aplicacoes-mobile\packages\xamarin.forms.2.3.3.175\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="fe4acc44-27ba-0e4e-a08b-26ae7dccb678" />
+    <ReferenceAssembly PathName="c:\users\marce\documents\github\xamarin-crie-aplicacoes-mobile\packages\xamarin.forms.2.3.3.175\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="63c58f91-4202-fe55-ec2a-7e34dee9505b" />
+    <ReferenceAssembly PathName="c:\users\marce\documents\github\xamarin-crie-aplicacoes-mobile\packages\xamarin.forms.2.3.3.175\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="964969a0-caee-7d9d-82cd-9d1d01056ded" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
