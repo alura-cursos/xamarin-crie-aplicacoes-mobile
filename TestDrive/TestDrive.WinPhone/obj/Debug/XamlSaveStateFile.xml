@@ -1,5 +1,6 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\users\marce\documents\github\xamarin-crie-aplicacoes-mobile\testdrive\testdrive.aula4\bin\debug\testdrive.dll" HashGuid="b2ca174c-60de-0ea3-4726-fdc842445ab0" />
     <ReferenceAssembly PathName="c:\users\marce\documents\github\xamarin-crie-aplicacoes-mobile\packages\xamarin.forms.2.3.3.175\lib\wpa81\xamarin.forms.core.dll" HashGuid="c782f70f-077f-7e2d-5bd4-f6b5da067f8a" />
     <ReferenceAssembly PathName="c:\users\marce\documents\github\xamarin-crie-aplicacoes-mobile\packages\xamarin.forms.2.3.3.175\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
     <ReferenceAssembly PathName="c:\users\marce\documents\github\xamarin-crie-aplicacoes-mobile\packages\xamarin.forms.2.3.3.175\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="fe4acc44-27ba-0e4e-a08b-26ae7dccb678" />
